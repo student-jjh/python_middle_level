@@ -1,3 +1,3 @@
-import area #모둘을 가지고 옴
+from shapes import *
 
-print(area.circle(4)) 
+print(dir())
